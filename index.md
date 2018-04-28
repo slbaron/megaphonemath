@@ -1,12 +1,14 @@
 ## **Welcome**
 
 *Purpose*
+
   -a
+  
   -b
   
-  [code.org] (wwww.code.org)
+  http://www.code.org
   
-  ![Image](src)
+  ![GitHub Logo](/images/logo.png)
 
 
 
