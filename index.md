@@ -6,9 +6,9 @@
   
   -b
   
-  http://www.code.org
+  https://code.org
   
-  ![GitHub Logo](/images/logo.png)
+  ![MM Logo](/images/MegaphoneMath.png)
 
 
 
