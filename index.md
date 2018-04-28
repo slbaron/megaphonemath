@@ -8,7 +8,7 @@
   
   https://code.org
   
-  ![IMG_20180313_102547.jpg] (/images/IMG_20180313_102547.jpg)
+  ![IMG_20180313_102547.jpg] (/megaphonemath/IMG_20180313_102547.jpg)
 
 
 
