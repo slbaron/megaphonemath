@@ -8,8 +8,7 @@
   
   https://code.org
   
-  ![MM Logo](https://www.google.ca/search?rlz=1C1GGRV_enCA752CA767&tbm=isch&sa=1&ei=3-HkWveoBoPRjwTDl5VQ&q=free+math+images&oq=free+math+images&gs_l=psy-ab.3..0l2j0i8i30k1j0i24k1.8989.10984.0.11835.5.5.0.0.0.0.95.448.5.5.0....0...1c.1.64.psy-ab..0.5.441...0i13k1j0i8i7i10i30k1j0i8i7i30k1.0.KIt9vNjWUW4#imgrc=hDxrln7Hb8z_oM:)
-
+  ![IMG_20180313_102547.jpg] (/images/IMG_20180313_102547.jpg)
 
 
 
