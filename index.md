@@ -8,7 +8,7 @@
   
   https://code.org
   
-  ![alt text](https://github.com/slbaron/megaphonemath/blob/master/IMG_20180313_102547.jpg "go biking!")
+  ![alt text](https://github.com/slbaron/megaphonemath/blob/master/IMG_20180313_191916.png "go biking!")
 
 
 
